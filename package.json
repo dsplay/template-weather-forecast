@@ -7,7 +7,7 @@
     "i18next": "^19.9.2",
     "i18next-browser-languagedetector": "^5.0.1",
     "moment": "^2.29.4",
-    "moment-timezone": "^0.5.34",
+    "moment-timezone": "^0.5.35",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
     "react-app-polyfill": "^1.0.6",
